@@ -1,0 +1,2 @@
+android_store=525
+ios_store=460
